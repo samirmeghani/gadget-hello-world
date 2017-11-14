@@ -52,7 +52,7 @@
 
 <Extension id="HelloWorldGadget" type="gadget">
   <Name>Hello World Gmail contextual gadget</Name>
-  <Url>_http://example.com/gadgets/hello_world_gadget.xml_</Url>
+  <Url>http://samirmeghani.github.io/gadget-hello-world/hello_world_gadget.xml</Url>
   <Container name="mail"/>
   <!-- Uncomment this to enable Caja. -->
   <!-- <Param name="caja" value="enabled"/> -->
