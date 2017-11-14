@@ -36,7 +36,7 @@
   <Content type="html" view="card">
     <![CDATA[
       <script type="text/javascript">
-
+         console.log('helloooooo');
         <!-- Fetch the array of content matches. -->
         matches = google.contentmatch.getContentMatches();
         var matchList = document.createElement('UL');
