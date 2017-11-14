@@ -39,7 +39,6 @@
         debugger;
       </script>
       <!-- Start with Single Sign-On -->
-      <script type="text/javascript" src="https://example.com/gadgets/sso.js"></script>
       <script type="text/javascript">
 
         <!-- Fetch the array of content matches. -->
